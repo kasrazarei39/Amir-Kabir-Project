@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6985ca72-79ff-49fe-b01b-927a90025fac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZkHiN62dDlXi5B3A22HFA63lik" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="othello" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6985ca72-79ff-49fe-b01b-927a90025fac" name="Default Changelist" comment="" />
+      <created>1585376297270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585376297270</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585376534576">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1585376534576" />
+    <state x="709" y="283" key="#com.intellij.ide.util.MemberChooser" timestamp="1585383203917">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="709" y="283" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1585383203917" />
+    <state x="634" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585380504945">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="634" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1585380504945" />
+    <state width="1750" height="90" key="GridCell.Tab.0.bottom" timestamp="1585508924695">
+      <screen x="0" y="23" width="1792" height="1048" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1585494165653" />
+    <state width="1750" height="90" key="GridCell.Tab.0.bottom/0.23.1792.1048@0.23.1792.1048" timestamp="1585508924695" />
+    <state width="1750" height="90" key="GridCell.Tab.0.center" timestamp="1585508924695">
+      <screen x="0" y="23" width="1792" height="1048" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1585494165652" />
+    <state width="1750" height="90" key="GridCell.Tab.0.center/0.23.1792.1048@0.23.1792.1048" timestamp="1585508924695" />
+    <state width="1750" height="90" key="GridCell.Tab.0.left" timestamp="1585508924695">
+      <screen x="0" y="23" width="1792" height="1048" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1585494165652" />
+    <state width="1750" height="90" key="GridCell.Tab.0.left/0.23.1792.1048@0.23.1792.1048" timestamp="1585508924695" />
+    <state width="1750" height="90" key="GridCell.Tab.0.right" timestamp="1585508924695">
+      <screen x="0" y="23" width="1792" height="1048" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1585494165653" />
+    <state width="1750" height="90" key="GridCell.Tab.0.right/0.23.1792.1048@0.23.1792.1048" timestamp="1585508924695" />
+    <state x="573" y="390" key="com.intellij.ide.util.TipDialog" timestamp="1585576601958">
+      <screen x="0" y="23" width="1792" height="1048" />
+    </state>
+    <state x="573" y="392" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1585490567492" />
+    <state x="573" y="390" key="com.intellij.ide.util.TipDialog/0.23.1792.1048@0.23.1792.1048" timestamp="1585576601958" />
+  </component>
+</project>
