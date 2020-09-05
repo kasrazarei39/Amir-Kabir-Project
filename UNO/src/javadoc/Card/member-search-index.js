@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Card","l":"Card(int)","url":"%3Cinit%3E(int)"},{"p":"<Unnamed>","c":"Card","l":"getColor()"},{"p":"<Unnamed>","c":"Card","l":"getExist()"},{"p":"<Unnamed>","c":"Card","l":"getIdCard()"},{"p":"<Unnamed>","c":"Card","l":"getType()"},{"p":"<Unnamed>","c":"Card","l":"setColor(int)"},{"p":"<Unnamed>","c":"Card","l":"setExist(boolean)"}]

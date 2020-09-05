@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Map","l":"Map()","url":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"Map","l":"pritnMap(int, int, int)","url":"pritnMap(int,int,int)"},{"p":"<Unnamed>","c":"Map","l":"pritnWinner(int[])"}]
