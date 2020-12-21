@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ma">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/UNO/out/production/UNO/ma/package-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/UNO/out/production/UNO/ma/member-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/UNO/out/production/UNO/ma/type-search-index.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
